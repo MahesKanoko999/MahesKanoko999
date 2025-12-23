@@ -16,6 +16,13 @@
   <a href="https://discord.retroid.net" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+  
+  <a href="https://github.com/MahesKanoko999?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Organizations-Manager-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Organizations"/>
+  </a>
+
+  <br/>
+  
   <a href="https://retroid.net" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit%20Retro-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
@@ -39,20 +46,4 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Terminal" />
-
-  <br/><br/>
-
-  ### 📊 GitHub Stats
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MahesKanoko999&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="MahesKanoko999's Github Stats" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahesKanoko999&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" />
-  </p>
-
-</div>
+  <img src="
