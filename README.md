@@ -1,50 +1,58 @@
-### Welcome here, my name is *MahesKanoko999* 👋
+<div align="center">
 
+  # Hi there, I'm MahesKanoko999 👋
 
-## I'm an MK Group Owner!
+  ### Founder of MK Group | FiveM Server Developer
 
--💻 project "Retro", a FiveM RP server.
+  <br/>
 
-### My socials!
+  <p>
+    I focus on building immersive experiences and game server infrastructure.<br>
+    Currently developing and managing <b>"Retro"</b>, a High-Performance FiveM Roleplay Server.
+  </p>
 
-[<img align="left" alt="My discord" width="22px" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png" />][discord]
-[<img align="left" alt="My instagram" width="22px" src="https://cdn.pixabay.com/photo/2021/06/15/12/17/instagram-6338401_1280.png" />][instagram]
-[<img align="left" alt="My twitch" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c540.png" />][twitch]
-[<img align="left" alt="My youtube" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" />][youtube]
-[<img align="left" alt="My twitter" width="22px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />][twitter]
-[<img align="left" alt="My website" width="22px" src="https://www.pinclipart.com/picdir/big/211-2116571_website-website-logo-png-transparent-background-clipart.png" />][website]
+  <br/>
 
-<br />
+  <a href="https://discord.retroid.net" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://retroid.net" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit%20Retro-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.instagram.com/maheskanoko/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCqJzbG8ocTzENwCsVc2SKKQ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
 
-### My stats!
+  <br/><br/>
 
+  ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MahesKanoko999&count_private=true&show_icons=true?theme=buefy)
-<br />
+  ### 🛠️ Languages & Tools
 
-<br />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Terminal" />
 
-### Languages & Tools I use!
+  <br/><br/>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="Sublime Text" width="26px" src="https://www.sublimehq.com/images/sublime_text.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+  ### 📊 GitHub Stats
 
-<br />
-<br />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=MahesKanoko999&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="MahesKanoko999's Github Stats" />
+  </p>
 
----
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahesKanoko999&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" />
+  </p>
 
-[discord]: https://discord.retroid.net
-[website]: https://retroid.net
-[instagram]: https://www.instagram.com/maheskanoko/
-[twitch]: comingsoon
-[youtube]: https://www.youtube.com/channel/UCqJzbG8ocTzENwCsVc2SKKQ
-[twitter]: comingsoon
+</div>
